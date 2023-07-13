@@ -5,9 +5,17 @@ Saperoi
 Health Bar
 Hunger Bar
 Armor Bar
+Edited Hanging Sign textures
 
+Minecraft 1.RV
+-------
+Oak Sign
+Pumpkin blur
 
-==Plans==
-OG Minecraft textures
----------------------
-Signs (Trendy Update)
+XXVI's Log Hanging Signs
+-------
+Original Hanging Sign textures
+
+VanillaTweaks
+-------
+EXP Bar
